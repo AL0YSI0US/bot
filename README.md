@@ -54,3 +54,10 @@ You'll need a service to host this bot 💆‍♀️ but do not despair! There's
 ### Contributing
 
 Don't be shy to contribute even the smallest tweak. 🐲 There are still some dragons to be aware of, but we'll be here to help you get started!
+
+````
+[ ] create a discord server : ________________
+[ ] mkdir : scuttleBot
+[ ] clone repo locally
+[ ] come back and check some boxes...
+
